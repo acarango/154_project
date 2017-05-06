@@ -20,7 +20,7 @@ While many models use quantitative predictor data such as price, gene expression
 library(knitr)
 Model <- c("SVM", "Random Forests", "Neural Nets")
 CV_RMSE <- c("1.31", "1.29", "1.30")
-Kaggle_RMSE <- c("0.46", "0.47", "x")
+Kaggle_RMSE <- c("0.46", "0.47", "2.20")
 Hyper_parameters <- c("N/A", "n_trees = 1000", "x")
 Features <- c("Pos/Neg Word Counts", "Pos/Neg Word Counts", "N/A")
 
