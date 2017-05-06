@@ -9,7 +9,7 @@ includes neural net, clustering, and PCR. Austin's contains random forest and SV
 Within data/ we have the yelp datasets we used as well as txt files for positive and negative opinion words, which we found [here](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 (citation below). 
 
-Finally, we have in the root directory, STAT_154_Yelp_Report_JAJA.rmd which corresponds to the report pdf we turned in to bcourses, written by Austin, Jason, and Alex. 
+Finally, we have in the root directory, STAT_154_Yelp_Report_JAJA.rmd which corresponds to the report pdf we turned in to bcourses, written by Jason, and Alex with some contributions from Josh and Austin. 
 
 #Reference:
 
